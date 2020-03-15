@@ -1,0 +1,10 @@
+header {
+    color: rgb(253, 255, 122);
+    background-color: rgba(80, 74, 74, 0.411);
+    font-size: x-large;
+}
+.container {
+    color: black;
+    background-color: blanchedalmond;
+    font-style: italic;
+}
