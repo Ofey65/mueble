@@ -1,10 +1,6 @@
-header {
-    color: rgb(253, 255, 122);
-    background-color: rgba(80, 74, 74, 0.411);
-    font-size: x-large;
-}
-.container {
-    color: black;
-    background-color: blanchedalmond;
-    font-style: italic;
+header{
+    padding-left: 10px;
+    background-color:rgb(84, 203, 233);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(65, 57, 57);
 }
